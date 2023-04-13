@@ -1,0 +1,3 @@
+﻿  Chainik.cpp
+C:\Users\USER\Desktop\c++\Chainik\Chainik.cpp(250): warning C4715: Kitchen::proc: значение возвращается не при всех путях выполнения
+  Chainik.vcxproj -> C:\Users\USER\Desktop\c++\Chainik\x64\Debug\Chainik.exe
